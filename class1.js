@@ -135,3 +135,67 @@
 
 // Date object:
 // const date = new Date("2022-03-25");
+
+
+// if- else if- else loop
+// if (time < 10) {
+//     greeting = "Good morning";
+//   } else if (time < 20) {
+//     greeting = "Good day";
+//   } else {
+//     greeting = "Good evening";
+//   }
+
+
+// switch
+// switch (new Date().getDay()) {
+//     case 6:
+//       text = "Today is Saturday";
+//       break;
+//     case 0:
+//       text = "Today is Sunday";
+//       break;
+//     default:
+//       text = "Looking forward to the Weekend";
+//   }
+
+
+// for loop
+// for (let i = 0; i < cars.length; i++) {
+//     text += cars[i] + "<br>";
+//   }
+
+
+// for/ in loop
+// const numbers = [45, 4, 9, 16, 25];
+// let txt = "";
+// for (let x in numbers) {
+//   txt += numbers[x];
+// }
+
+
+// for/ of loop
+// const cars = ["BMW", "Volvo", "Mini"];
+// let text = "";
+// for (let x of cars) {
+//   text += x;
+// }
+
+
+// while loop
+// var i = 0;
+// while (i < 10) {
+//     text = "";
+//     text += "The number is " + i;
+//     i++;
+//   }
+
+
+// do-while loop
+// var i = 0;
+// do {
+//     text = "";
+//     text += "The number is " + i;
+//     i++;
+//   }
+//   while (i < 10);
